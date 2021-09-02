@@ -1,0 +1,16 @@
+
+* new title
+  start afresh
+
+* second title
+** second stage
+   new home
+*** new list
+  - show melpa
+  - change bar
+
+
+* links my blog
+
+ - [[https://focusteck.com][something nice]]
+   
